@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/iotopo/batch/batch"
+	"github.com/iotopo/batch"
 )
 
 func main() {
