@@ -4,7 +4,7 @@ golang asynchronous batch writer
 # Quickstart
 
 ```
-# make sure you have go1.13 or higher
+# make sure you have go1.18 or higher
 
 # install library
 go get -u github.com/iotopo/batch
